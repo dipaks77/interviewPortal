@@ -1,0 +1,180 @@
+{
+	"_id" : ObjectId("5a530f2ff61fb204ac758634"),
+	"questions" : [
+		{
+			"question" : " AngularJS supports which kind of data binding. ",
+			"options" : {
+				"0" : "one",
+				"1" : "two",
+				"2" : "three",
+				"3" : "four"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : " AngularJS is based on the which pattern. ",
+			"options" : {
+				"0" : "VMC",
+				"1" : "MVC",
+				"2" : "MCV",
+				"3" : "CVM"
+			},
+			"ans" : "1"
+		},
+		{
+			"question" : "There is a controller which takes single parameter. We call it  parameter",
+			"options" : {
+				"0" : "param",
+				"1" : "control",
+				"2" : "scope",
+				"3" : "scont"
+			},
+			"ans" : "2"
+		},
+		{
+			"question" : "Which directive is used if you want to add or remove HTML elements from the DOM based on data in the model. ",
+			"options" : {
+				"0" : "ng-switch",
+				"1" : "ng-model ",
+				"2" : "ng-Disabled",
+				"3" : "ng-Cloak"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "Event binding can be defined.?",
+			"options" : {
+				"0" : "by wrapping the event in parenthesis",
+				"1" : "by wrapping the event in square brackets",
+				"2" : "by wrapping the event in curly brackets",
+				"3" : "by prefixing it with on dollar"
+			},
+			"ans" : "0"
+		}
+	],
+	"test_name" : "AngularJS Test"
+},
+{
+	"_id" : ObjectId("5a530f3ff61fb204ac758635"),
+	"questions" : [
+		{
+			"question" : "Inside which HTML element do we put the JavaScript?",
+			"options" : {
+				"0" : "<js>",
+				"1" : "<javascript>",
+				"2" : "<scripting>",
+				"3" : "<script>"
+			},
+			"ans" : "3"
+		},
+		{
+			"question" : "How do you call a function named 'myFunction'?",
+			"options" : {
+				"0" : "call myFunction()",
+				"1" : "call function myFunction()",
+				"2" : "myFunction()"
+			},
+			"ans" : "2"
+		},
+		{
+			"question" : "How does a WHILE loop start?",
+			"options" : {
+				"0" : "while (i <= 10)",
+				"1" : "while i = 1 to 10",
+				"2" : "while (i <= 10; i++)"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "How do you round the number 7.25, to the nearest integer?",
+			"options" : {
+				"0" : "Math.rnd(7.25)",
+				"1" : "round(7.25)",
+				"2" : "rnd(7.25)",
+				"3" : "Math.round(7.25)"
+			},
+			"ans" : "3"
+		},
+		{
+			"question" : "How do you find the number with the highest value of x and y?",
+			"options" : {
+				"0" : "Math.ceil(x, y)",
+				"1" : "Math.max(x, y)",
+				"2" : "ceil(x, y)",
+				"3" : "top(x, y)"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "JavaScript is the same as Java.",
+			"options" : {
+				"0" : "True",
+				"1" : "False"
+			},
+			"ans" : "1"
+		}
+	],
+	"test_name" : "Javascript Test"
+},
+{
+	"_id" : ObjectId("5a530f4ef61fb204ac758636"),
+	"questions" : [
+		{
+			"question" : "In which of the following areas, Node.js is not advised to be used? ",
+			"options" : {
+				"0" : "Single Page Applications",
+				"1" : "JSON APIs based Applications",
+				"2" : "CPU intensive applications",
+				"3" : "Data Intensive Realtime Applications (DIRT)"
+			},
+			"ans" : "2"
+		},
+		{
+			"question" : " What is Callback?. ",
+			"options" : {
+				"0" : "Callback is an asynchronous equivalent for a function",
+				"1" : "Callback is a technique in which a method call back the caller method",
+				"2" : "Both of the above",
+				"3" : "none of the above"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "Which of the following module is required for DNS specific operations?",
+			"options" : {
+				"0" : "dns module",
+				"1" : "web module",
+				"2" : "net module",
+				"3" : "none"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "How can we check the cujrrent version of NPM",
+			"options" : {
+				"0" : "npm --version",
+				"1" : "npm --ver ",
+				"2" : "npm --help",
+				"3" : "none"
+			},
+			"ans" : "0"
+		},
+		{
+			"question" : "To install Node.js express module",
+			"options" : {
+				"0" : "npm install express",
+				"1" : "node install express",
+				"2" : " install express",
+				"3" : "None of above"
+			},
+			"ans" : "0"
+		}
+	],
+	"test_name" : "NodeJS Test"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a5455d90f224715048305b9"),
+	"questions" : [ ],
+	"test_name" : "PHP Test"
+},
