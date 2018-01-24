@@ -1,0 +1,16 @@
+/*
+Created By : Dipak Sumesara;
+Date : 11/12/2017;
+*/
+.no-underline{
+	text-decoration: none;
+}
+.cursor-pointer{
+	cursor: pointer !important;
+}
+.left{
+	float : left;
+}
+.right{
+	float: right;
+}
